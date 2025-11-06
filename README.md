@@ -62,3 +62,10 @@ cd trab_extensao_inspecao_de_incendio
 | **Coroutines** | 1.7.3 | Programação assíncrona |
 | **StateFlow** | - | Gerenciamento de estado reativo |
 | **ViewModel** | 2.7.0 | Gerenciamento de lógica de UI |
+
+
+## Screenshots
+
+| Tela Inicial | Nova Inspeção | Histórico |
+|--------------|---------------|-----------|
+| ![](image%20(5).png) | ![](image.jpg) | ![](image%20(6).png) |
